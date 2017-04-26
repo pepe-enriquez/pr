@@ -1,4 +1,4 @@
-# Nuevo comentario 123
+# Nuevo comentario 1234
 # Leer datos de IdG
 setwd("/data/WTAC/R/TORO_2/")
 # librería para plot
